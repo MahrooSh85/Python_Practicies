@@ -1,0 +1,7 @@
+git clone  # copy repository from remote to local
+git status  # show changed files and the type of the changed
+git add     #
+git commit
+git push
+git pull
+
